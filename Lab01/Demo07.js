@@ -10,7 +10,7 @@ class Parents {
 
     toString() { return "String: " + this.name; }
 
-    static getType() { return 'Parent'; }
+    static getType() { return 'Parents'; }
 }
 
 class Child extends Parents {
