@@ -78,7 +78,6 @@ console.log(arrStr);
 console.log(a);
 let arr = [...a]
 console.log(arr);
-
 function sumTotal(...arr) {
     let result = 0;
     arr.forEach((item) => {
