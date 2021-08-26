@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 11",
+    "category": "mobile"
+  },
+  {
+    "id": 2,
+    "name": "iPad",
+    "category": "tablet"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 12 Pro Max",
+    "category": "mobile"
+  },
+  {
+    "id": 4,
+    "name": "macBook M1",
+    "category": "laptop"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "DTTX, NodeJS, Express, NMCNPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js", 
+    "dev": "node Demo01.js",
+    "start": "nodemon Demo02.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "nmcnpm",
+    "dttx"
+  ],
+  "author": "NDHuy",
+  "license": "MIT"
+}
